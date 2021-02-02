@@ -1,6 +1,7 @@
 # Pane-Editor-Framework
 
 This is a react based editor UI framework thats main focus is to interact with the BABYLON.js webGL multi-canvas rendering API.
+![](pane-editor.png)
 
 ## Installation
 ``` npm install ```
